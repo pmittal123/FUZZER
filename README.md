@@ -42,15 +42,15 @@ runner.sh
 
 ## STRUCTURE
 FUZZER/
-  │
-  ├── project.l          # Lexer definitions
-  ├── project.y          # Parser definitions
-  ├── runner.sh          # Fuzzer execution script
-  └── README.md          # Project documentation
+│
+├── project.l          # Lexer definitions
+├── project.y          # Parser definitions
+├── runner.sh          # Fuzzer execution script
+└── README.md          # Project documentation
 ## Authors & Contributions
 
 - **Priyanshu Mittal** 
-- **Jiya **  
+- **Jiya**  
 - **Param An**
 - **Gagan**
 
