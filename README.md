@@ -47,6 +47,7 @@ FUZZER/
 ├── project.y          # Parser definitions
 ├── runner.sh          # Fuzzer execution script
 └── README.md          # Project documentation
+
 ## Authors & Contributions
 
 - **Priyanshu Mittal** 
