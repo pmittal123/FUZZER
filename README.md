@@ -29,7 +29,7 @@ sudo apt install flex bison
 sudo apt update
 sudo apt install afl++
 ```
-### Step 3: Ensuring files directory  
+### Step 3: Ensuring the files directory  
 ```bash
 project.l
 project.y
@@ -52,9 +52,9 @@ FUZZER/
 ## Authors & Contributions
 
 - **Priyanshu Mittal** 
-- **Jiya**  
-- **Param An**
-- **Gagan**
+- **Jiya Agrawal**  
+- **Param Preet Singh**
+- **Gagan Deep Singh**
 
 ---
 
