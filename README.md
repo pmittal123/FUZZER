@@ -41,10 +41,11 @@ runner.sh
 ```
 
 ## STRUCTURE
+
 FUZZER/
 │
-├── project.l          # Lexer definitions
-├── project.y          # Parser definitions
+├── project.l          # Lexer definitions for mini compiler
+├── project.y          # Parser definitions for mini compiler
 ├── runner.sh          # Fuzzer execution script
 └── README.md          # Project documentation
 
